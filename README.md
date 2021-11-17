@@ -1,6 +1,6 @@
 # EUROPE TRIVIA QUIZ IN PYTHON
 
-<img src="https://github.com/DavidDanso/python-snake-game/blob/master/Snake%20Game%20UI.png" width=400 />
+<img src="trivia_ui.png" width=400 />
 
 ## Project Outline
 
