@@ -1,7 +1,5 @@
 # EUROPE TRIVIA QUIZ IN PYTHON
 
-<img src="trivia_ui.png" width=400 />
-
 ## Project Outline
 
 1. Ask user if he / she knows more about Europe.
@@ -10,3 +8,10 @@
 4. After the user is done answering all the questions a final screen will pop up to show the user the final score.
 
 ## Project Images
+<img src="https://github.com/DavidDanso/map-of-europe/blob/master/project_images/trivia_ui.png" width=400 />
+
+<img src="https://github.com/DavidDanso/map-of-europe/blob/master/project_images/start_trivia.png" width=400 />
+
+<img src="https://github.com/DavidDanso/map-of-europe/blob/master/project_images/end_trivia.png" width=400 />
+
+<img src="https://github.com/DavidDanso/map-of-europe/blob/master/project_images/final_score.png" width=400 />
